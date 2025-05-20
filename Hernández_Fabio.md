@@ -5,4 +5,4 @@
 ## Referencias a los Issues
 - Issue de feature: #44
 - Issue de bug: #38
-- Issue comentado (discusión): #38
+- Issue comentado (discusión): #152
