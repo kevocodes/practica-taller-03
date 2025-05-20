@@ -6,3 +6,4 @@
 - Issue de feature: #58
 - Issue de bug: #80
 - Issue comentado (discusión): #58
+- comentor: AlexRobles00052121
