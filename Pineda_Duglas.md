@@ -5,4 +5,4 @@
 ## Referencias a los Issues
 - Issue de feature: #11
 - Issue de bug: #12
-- Issue comentado (discusión): #Z
+- Issue comentado (discusión): #47 y 50
