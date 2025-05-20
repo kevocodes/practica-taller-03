@@ -3,6 +3,6 @@
 - Carné: 00052121
 
 ## Referencias a los Issues
-- Issue de feature: Status: #121
-- Issue de bug: 
+- Issue de feature: #131  Status: close
+- Issue de bug: #121
 - Issue comentado (discusión): #58
