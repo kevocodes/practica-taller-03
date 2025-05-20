@@ -7,4 +7,4 @@
 
 - Issue de feature: #48
 - Issue de bug: #37
-- Issue comentado (discusión): #Z
+- Issue comentado (discusión): #38
