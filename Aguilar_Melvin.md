@@ -1,5 +1,5 @@
 ## Información del estudiante
-- Nombre completo: Melvin Armando Aguilar Hernandez
+- Nombre completo: Melvin Armando Aguilar Hernández
 - Carné: 00067621
 
 ## Referencias a los Issues
