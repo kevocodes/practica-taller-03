@@ -4,5 +4,5 @@
 
 ## Referencias a los Issues
 - Issue de feature: #104
-- Issue de bug: #102
+- Issue de bug: #100
 - Issue comentado (discusión): #123
