@@ -8,11 +8,11 @@
   },
   "keywords": [],
   "config": {
-      "commitizen": {
-        "path": "./node_modules/cz-emoji-conventional",
-        "useGitmojis": true
-      }
-    },
+    "commitizen": {
+      "path": "./node_modules/cz-emoji-conventional",
+      "useGitmojis": true
+    }
+  },
   "author": "",
   "license": "ISC",
   "description": "",
