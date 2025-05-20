@@ -1,5 +1,5 @@
 ## Información del estudiante
-- Nombre completo: Xavier Fabricio Moran Rivas
+- Nombre completo: Xavier Fabricio Morán Rivas
 - Carné: 00106121
 
 ## Referencias a los Issues
